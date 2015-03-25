@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RecursosImg/rama gi.png</file>
+        <file>RecursosImg/rama gd.png</file>
+    </qresource>
+</RCC>
